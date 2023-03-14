@@ -14,3 +14,19 @@ The format is as follows:
 	- 3.md, 4.md, 5.md, etc (as many incorrect options as you would like)
 
 This format allows you to use Markdown in the questions and options, including pieces of code. Feel free to use emojis, tables or any valid Markdown you like.
+
+The system will take care of showing the options in random order, per exam. So for example one student may see:
+
+- [ ] Option 3
+- [ ] Option 4
+- [ ] Option 1
+- [ ] Option 5
+- [ ] Option 2
+
+... while other will get:
+
+- [ ] Option 2
+- [ ] Option 3
+- [ ] Option 1
+- [ ] Option 5
+- [ ] Option 4
