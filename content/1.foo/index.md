@@ -1,1 +1,0 @@
-Which of the following is NOT a built in Vue.js directive?
